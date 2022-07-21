@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\tanbi\QA\JavaBasics\FileHandling\src\main\java\domain\InputAndOutput.java"/>
+			<item value="C:\Users\tanbi\QA\JavaBasics\MethodChaining\src\main\java\stream\Test.java"/>
+			<item value="C:\Users\tanbi\QA\JavaBasics\LoggingExamples\src\org\LogException.java"/>
+			<item value="C:\Users\tanbi\QA\JavaBasics\ATMProject\src\main\java\org\OptionMenu.java"/>
+			<item value="C:\Users\tanbi\QA\JavaBasics\LambdaExpressionsExample\src\main\java\com\Test.java"/>
+			<item value="C:\Users\tanbi\QA\JavaBasics\AdopterExample\src\main\java\org\Demo.java"/>
+			<item value="C:\Users\tanbi\QA\JavaBasics\SingletonExample\src\org\Test.java"/>
+			<item value="C:\Users\tanbi\QA\JavaBasics\MyUpdatedJDBCApp\src\main\java\org\PreparedStmtExample.java"/>
+			<item value="C:\Users\tanbi\QA\JavaBasics\JDBCApp\src\main\java\org\JDBCApp.java"/>
+			<item value="C:\Users\tanbi\QA\JavaBasics\MyApplication"/>
+			<item value="C:\Users\tanbi\QA\JavaBasics\ImranMavenApp\src\test\java\org\qa\TestUnits.java"/>
+			<item value="C:\Users\tanbi\QA\JavaBasics\JUnitExample\src\domain\Test1.java"/>
+			<item value="C:\Users\tanbi\QA\JavaBasics\JUnitExample\src\org\TestMain.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="org.qa"/>
+			<item value="com.qa"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="Homework"/>
+			<item value="FileHandling"/>
+			<item value="MethodChaining"/>
+			<item value="LoggingExample"/>
+			<item value="BankingProject"/>
+			<item value="ATMProject"/>
+			<item value="CollectionsExample"/>
+			<item value="LambdaExpressionsExample"/>
+			<item value="AdapterPattern"/>
+			<item value="AdopterExample"/>
+			<item value="ExceptionExample"/>
+			<item value="MyUpdatedJDBCApp"/>
+			<item value="MyJDBCApp"/>
+			<item value="JDBCApp"/>
+			<item value="MavenProject"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

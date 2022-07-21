@@ -1,0 +1,26 @@
+package org;
+
+public class ProductBuilder {
+	
+	public ProductBuilder(){}
+	
+	public Builder BuildProduct() {
+		return new Builder(name, age, price);
+	}
+	
+	public ProductBuilder name(String passedName) {
+		this.name = passedName;
+		return this;
+	}
+	public ProductBuilder brand(String passedBrand) {
+		this.brand = passedBrand;
+		return this;
+	}
+	public ProductBuilder price(int passedPrice) {
+		this.price = passedPrice;
+		return this;
+	}
+	public ProductBuilder id(int passedID) {
+		this.id = passedID;
+		return this;
+	}

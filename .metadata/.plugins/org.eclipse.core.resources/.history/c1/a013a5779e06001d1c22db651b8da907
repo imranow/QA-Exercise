@@ -1,0 +1,13 @@
+package set_org;
+
+import java.util.Set;
+
+public class TestSet {
+	public static void main(String [] args) {
+		Set fruits=new TreeSet();
+		fruits.add("Apple");
+		fruits.add("Apple");
+		
+	}
+
+}

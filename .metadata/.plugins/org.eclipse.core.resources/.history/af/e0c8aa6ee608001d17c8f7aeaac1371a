@@ -1,0 +1,19 @@
+package org;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Employee e1 = new Employee();
+		e1.FirstName="John";
+		e1.LastName="Doe";
+		e1.age=32;
+		e1.address="India";
+		int tempSalary = e1.CalculatefinalSalary(200000);
+		System.out.println(tempSalary);
+		//public Employee(String firstName, String lastName, int age, String address, String phoneNo, String email,
+		//int basicSalary) 
+
+	}
+
+}

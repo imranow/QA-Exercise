@@ -1,0 +1,18 @@
+package credit;
+
+import com.CCLength;
+import com.InvalidCCException;
+
+
+public class Test {
+	public static void main(String [] args) {
+		CCLength obj=new CCLength();
+		try {
+			obj.CheckCCLength("1234567891011121");
+		} catch (InvalidCCException e) {
+			//e.printStackTrace();
+			System.out.println(e.getMessage());
+		}
+	}
+
+}

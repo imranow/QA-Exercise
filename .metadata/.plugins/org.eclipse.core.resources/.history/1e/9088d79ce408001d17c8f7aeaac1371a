@@ -1,0 +1,38 @@
+package org;
+
+public class Employee {
+	String FirstName;
+	String LastName;
+	int age;
+	String address;
+	int PhoneNo;
+	String email;
+	int BasicSalary;
+	int bonus;
+	
+	public Employee(String firstName, String lastName, int age, String address, int phoneNo, String email,
+			int basicSalary, int bonus) {
+		super();
+		FirstName = firstName;
+		LastName = lastName;
+		this.age = age;
+		this.address = address;
+		PhoneNo = phoneNo;
+		this.email = email;
+		BasicSalary = basicSalary;
+		this.bonus = bonus;
+	}
+	
+	void CalculatefinalSalary() {
+		int Bonus = 10/100;
+		
+		int finalSalary = BasicSalary * Bonus;
+		
+		
+	}
+	void greeting() {
+		
+	}
+	
+
+}

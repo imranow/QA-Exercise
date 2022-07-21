@@ -1,0 +1,10 @@
+package com;
+
+public class Bank {
+	public static void main(String[] args) {
+		
+		Account imran = new Account("Imran", "10001")
+		imran.showMenu();
+	}
+
+}

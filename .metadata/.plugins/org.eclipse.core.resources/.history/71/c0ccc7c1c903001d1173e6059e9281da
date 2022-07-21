@@ -1,0 +1,6 @@
+package Bird;
+
+public class Dodo {
+	public void LayEggs();
+
+}

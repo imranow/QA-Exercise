@@ -1,0 +1,19 @@
+package domain;
+
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+
+public class InputAndOutput {
+	public void copy(String inFile, String outFile) throws IOException {
+		try {FileInputStream fileOuputStream = new FileInputStream("x.txt")
+		FileOutputStream fileOutputStream = new FileOutputStream("y.txt");
+		
+		int numberOfBytesRead;
+		byte[] bytesArray = new byte[128];
+		while ((numberOfBytesRead = fileInputStream.read(bytesArray)
+				fileOutputStream.write(bytesArray, 0, numberOfBytesRead)))
+		}
+	}
+
+}

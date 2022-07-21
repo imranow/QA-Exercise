@@ -1,0 +1,8 @@
+package org;
+
+public class Workable {
+	public void work();
+	public void getWorkHours();
+
+
+}

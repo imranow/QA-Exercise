@@ -1,0 +1,8 @@
+package Example1;
+
+public class Test {
+	public static void main(String[] args) {
+		InputAndOutput obj = new Inp
+	}
+
+}

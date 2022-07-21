@@ -1,0 +1,12 @@
+package com.qa.main;
+
+public class Owl {
+
+    private int wingspan = 30;
+
+    public void doThing(){
+        System.out.println("Wingspan: " + this.wingspan + ", Flight?: " + super.getFly());
+    }
+
+
+}
